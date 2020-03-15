@@ -1,2 +1,2 @@
 # Image-divide-and-stitch
-Image divide and stitch algorithm
+The algorithm is based on python and OpenCV. Download dependencies before runing.
